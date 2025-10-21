@@ -3,7 +3,7 @@
 * Nama : Sutan Fil'Ilmi
 * Kelas : Teknik Informatika - E
 * NIM : 24051204143
-* Link Youtube: 
+* Link Youtube: https://youtu.be/ex8VWLqQYAM
 
 ## Screenshot
 
